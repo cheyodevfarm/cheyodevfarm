@@ -1,6 +1,5 @@
 ### Hola 👋, soy José María
-![](https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif)
-
+https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif
 **Hey!**, yo de nuevo!! 🤓
 
 Para ponerte en contexto!!, soy de un remoto lugar llamado Bermejo, Tarija-Bolivia. Solía pensar que me gustaba la programación 👨🏻‍💻... pero descubrí que realmente me apasiona ❤️!
