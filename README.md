@@ -7,13 +7,13 @@
 
 Para ponerte en contexto!!, soy de un remoto lugar llamado Bermejo, Tarija-Bolivia. Solía pensar que me gustaba la programación 👨🏻‍💻... pero descubrí que realmente me apasiona ❤️!
 
-Actualmente, curso en el bootcamp de **#SoyHenry**, la carrera de **Desarrollador Web Full-Stack** 
+Soy egresado de la carrera de Ingeniería de Sistemas, ademas soy graduado del bootcamp de **#SoyHenry**, en la carrera de **Desarrollador Web Full-Stack** 
 
 Habilidades: REACT.JS / REDUX / JS / HTML / CSS / NODE.JS / EXPRESS / POSTGRESQL / SEQUELIZE / MONGODB / MONGOOSE / MYSQL / SQL / C# / .NET 
 
-- 🔭 Estoy trabajando en el Proyecto Final para graduarme de https://www.soyhenry.com/ 
-- 🌱 Estoy aprendiendo React Native 
-- 👯 Quiero colaborar con la exitosa empresa que requiera de mis servicios 
+- 🔭 Actualmente trabajo como Full-Stack Developer en la Startup **#Fitback** 🇦🇷... 🌐 https://fitback.club/
+- 🌱 Estoy fortaleciendo conocimientos en React Native 
+- 💼 Quiero colaborar con la exitosa empresa que requiera de mis servicios 
 - 💬 Pregúntame acerca de lo que gustes!!  
 - ⚡ Dato curioso: Me considero un futbolista frustrado...tenía el don pero me lesioné la rodilla 🙊😅 
 
