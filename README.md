@@ -12,7 +12,7 @@ Soy egresado de la carrera de Ingeniería de Sistemas, ademas soy graduado del b
 Habilidades: REACT.JS / REDUX / JS / HTML / CSS / NODE.JS / EXPRESS / POSTGRESQL / SEQUELIZE / MONGODB / MONGOOSE / MYSQL / SQL / C# / .NET 
 
 - 🔭 Actualmente trabajo como Software Engineer en **#Xoolix** 🇦🇷... 🌐 https://xoolix.com/
-- 🌱 Estoy fortaleciendo conocimientos en React Native 
+- 🌱 Estoy fortaleciendo conocimientos en NEXT.js y Java Spring boot 
 - 💼 Quiero colaborar con la exitosa empresa que requiera de mis servicios 
 - 💬 Pregúntame acerca de lo que gustes!!  
 - ⚡ Dato curioso: Me considero un futbolista frustrado...tenía el don pero me lesioné la rodilla 🙊😅 
