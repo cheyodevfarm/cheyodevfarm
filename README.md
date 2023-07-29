@@ -11,7 +11,7 @@ Soy egresado de la carrera de Ingeniería de Sistemas, ademas soy graduado del b
 
 Habilidades: REACT.JS / REDUX / JS / HTML / CSS / NODE.JS / EXPRESS / POSTGRESQL / SEQUELIZE / MONGODB / MONGOOSE / MYSQL / SQL / C# / .NET 
 
-- 🔭 Actualmente trabajo como Full-Stack Developer en la Startup **#Fitback** 🇦🇷... 🌐 https://fitback.club/
+- 🔭 Actualmente trabajo como Software Engineer en **#Xoolix** 🇦🇷... 🌐 https://xoolix.com/
 - 🌱 Estoy fortaleciendo conocimientos en React Native 
 - 💼 Quiero colaborar con la exitosa empresa que requiera de mis servicios 
 - 💬 Pregúntame acerca de lo que gustes!!  
